@@ -32,6 +32,7 @@ nav {
 }
 
 .hero {
+  align-items: center;
   display: flex;
   flex-direction: column;
 }
@@ -59,6 +60,7 @@ nav {
   display: flex;
   flex-wrap: nowrap;
   gap: 20px;
+  justify-content: center;
   overflow-x: auto;
 }
 
